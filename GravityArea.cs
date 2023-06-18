@@ -2,7 +2,7 @@ using System.Collections;
 using UnityEngine;
 
 
-// Refactored
+
 public class GravityArea : MonoBehaviour
 {
 
