@@ -18,10 +18,6 @@ Demo pinball game in unity
 <img src="https://github.com/athangk/pinAballUnity/blob/main/pinaball3.gif" width="640">
 
 
-  ### - Wormhole and tunnel
 
-<img src="https://github.com/athangk/pinAballUnity/blob/main/pinaball4.gif" width="640">
-
-
-  * Do not reuse graphics, graphics are copyrighted
+Do not reuse graphics-copyrighted
 
