@@ -19,7 +19,7 @@ First version of a pinball game in unity
 
 ### - Star hole and tunnel
 
-<img src="https://github.com/athangk/pinAballUnity/blob/main/pinaball3.gif" width="640">
+<img src="https://github.com/athangk/pinAballUnity/blob/main/pinaball4.gif" width="640">
 
 
 
