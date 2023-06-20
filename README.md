@@ -1,5 +1,5 @@
 # pinAballUnity
-Demo pinball game in unity 
+First version of a pinball game in unity
 
 #### - Giff game start
   <p float=left>
@@ -17,7 +17,11 @@ Demo pinball game in unity
 
 <img src="https://github.com/athangk/pinAballUnity/blob/main/pinaball3.gif" width="640">
 
+### - Star hole and tunnel
+
+<img src="https://github.com/athangk/pinAballUnity/blob/main/pinaball3.gif" width="640">
 
 
-Do not reuse graphics-copyrighted
+
+Sprites used/graphics- Copyrighted
 
